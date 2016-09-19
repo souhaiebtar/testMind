@@ -1,0 +1,6 @@
+total 8
+drwxr-xr-x   5 MinEng  admin  170 Sep 19 10:30 .
+drwxrwxr-x  27 MinEng  admin  918 Sep 19 10:27 ..
+drwxr-xr-x  14 MinEng  admin  476 Sep 19 10:30 .git
+-rw-r--r--   1 MinEng  admin    0 Sep 19 10:30 fileLS.txt
+-rw-r--r--   1 MinEng  admin   20 Sep 19 10:29 test.txt
